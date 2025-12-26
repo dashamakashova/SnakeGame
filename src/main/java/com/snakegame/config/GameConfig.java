@@ -115,7 +115,7 @@ public class GameConfig {
 
     /**
      * Получает начальную длину змейки.
-     * @return начальная длина змейки
+     * @return начальная длина змейки..
      */
     public int getSnakeInitialLength() {
         return getIntProperty("snake.initial.length", DEFAULT_SNAKE_INITIAL_LENGTH);
